@@ -19,13 +19,13 @@ This repository helps people who want to switch from Apple to Android, including
      A: BlueBubbles lets me see everything, just like iMessages.
 
     "How will we find your phone if you lose it? You won’t be on Find My iPhone!"
-     A: Life360 can fix this.
+     A: Android has "Find my Device" built in.
 
     "What about AirDrop? How will you send us photos quickly?"
      A: Just send it through iMessage, I will receive it on BlueBubbles. If not, LocalSend works as an alternative for AirDrop on any operating system.
 
     "Your Apple Watch won’t work with Android—are you okay losing that?"
-     A: // TODO:  Fix this, I don't have an alternative yet.
+     A: Apple Watches have the same features that many other smart watches do. Samsung, Google and Pebble all offer smartwatches that work with Android.
 
     "Will your AirPods even work properly without an iPhone?"
      A: Yes, AirPods work fine if they are given a device to connect to on Bluetooth.
@@ -34,13 +34,13 @@ This repository helps people who want to switch from Apple to Android, including
      A: Using a Mac can allow me to view everything, so you may still send me reminders and calendars.
 
     "We pay for Apple Music—will you still use it, or switch to Spotify?"
-     A: Soundcloud, Youtube, Spotify and downloading music all work, if not better.
+     A: Apple Music and Apple Music Classical works on Android. Soundcloud, Youtube, Spotify and downloading music all work, if not better.
 
     "What about our shared iCloud storage? Are you just going to abandon it?"
      A: A Mac computer works for this, you can just transfer stuff from iPhone, save it on your computer, then sync it to your Android. If you want to get extra techy, set up a NAS or VPS
 
     "Do they have [specific iOS app] on Android? What if it’s not the same?"
-     A: They most likely do, and it is the same. Android uses Kotlin (Java programming language fork), iOS/iPadOS/MacOS uses Swift (C programming language fork) and you can use Dart to compile to both languages letting all users use the app.
+     A: They most likely do, and it is the same.
 
     "How will you access our family photo albums in iCloud?"
      A: The Mac home server will allow you to view everything iCloud.
@@ -49,13 +49,13 @@ This repository helps people who want to switch from Apple to Android, including
      A: No. I can just spend the remainder and then use Google pay, Android pay, then I can use my banking app for other stuff, and lastly Crypto apps also let me pay using these.
 
     "Android gets viruses, right? Are you sure it’s safe?"
-     A: Androids get viruses because there's a tradeoff between privacy + freedom and security.
+     A: Apple gets viruses too. Many people aren't interested in checking out exploits and such in Apple, though, and Apple wants to either keep people in the dark (to make more money) or to not freak Apple users out.
 
     "iPhones get updates for years—will your Android phone even stay updated?"
-     A: An Android phone can and will stay updated for longer than an iPhone will sustainably and quickly update. I can use custom OSes like GrapheneOS, CalyxOS, or LineageOS.
+     A: An Android phone can and will stay updated for longer than an iPhone will sustainably and quickly update. Laws in Europe have been passed that a phone must provide updates for at least 5 years after the phone has been released, and similar laws are being looked at in other places like California.
 
     "What if your Android phone gets hacked? Apple is more secure!"
-     A: Androids usually get hacked since code is publicly available, meaning attackers can see all the code for the OS. Apple's is closed-source, meaning attackers can't see and must use the Scientific Method to find exploits in Apple. Only God and Apple know how secure Apple's OSes really are.
+     A: Androids usually get hacked since code is publicly available, meaning attackers can see all the code for the Operating System. Apple's is closed-source, meaning attackers can't see and must use the Scientific Method to find exploits in Apple. Only God and Apple know how secure Apple's OSes really are.
 
     "All your friends have iPhones—won’t you feel left out with green bubbles?"
      A: I won't have Green Bubbles as a problem using BlueBubbles.
@@ -70,7 +70,7 @@ This repository helps people who want to switch from Apple to Android, including
      A: iOS/iPadOS slows down iDevices every major update. (iOS 18, iOS 19, etc.) So there's some incentive to buy a new phone. Their operating system is also closed-source and only comes with iDevices, along with adding in the problems of needing to Sideload every week for a non-native iOS app (eg. a Custom Browser, an App you're developing).
 
     "What if you hate Android? Will you just buy another iPhone later?"
-     A: Android is pretty easy to like, it leads phone market share at a staggering 83% total (Samsung, Pixel, Sony, Motorola, etc.)
+     A: Android is pretty easy to like, it leads phone market share at a staggering ~83% total (Samsung, Pixel, Sony, Motorola, etc.)
 
     "Android phones don’t hold their value—how will you resell it?"
      A: There's not much of an incentive to sell an Android phone. Plus, I can always upgrade it if need be.
@@ -97,7 +97,7 @@ This repository helps people who want to switch from Apple to Android, including
      A: Speed, Customizeability, Fun, Tinkering and Androids are basically an effective Mobile Desktop.
 
     "Are you doing this just to be different?"
-     A: No, there's so much more I can do on Android than I can iOS.
+     A: No, there's so much more I can do on Android than I can on iOS.
 
     "What’s wrong with the way we’ve always done things?"
      A: Nothing. To me, if anything, it's just better to switch to Android for cost of maintenance.
