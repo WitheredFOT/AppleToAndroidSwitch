@@ -2,22 +2,22 @@
 This repository allows kids who want to switch from Apple to Android to do so, and give solid, reasonable comebacks to nearly any question that can come their way.
 
     "How will we text? You’ll turn our group chats green!"
-     A: I can install BlueBubbles. I will just need the old Mac Mom gave me, and no, you don't have to switch to a "new app" since only iMessages shows the Greeb Bubble.
+     A: I can install BlueBubbles. No, you guys don't have to switch to a new app since only iMessages shows the Greeb Bubble. BlueBubbles is a server app for Mac that lets me talk to you through iMessage on Android.
 
     "What about reactions to messages? Will you just get ‘Liked’ texts?"
-     A: Again, No. On BlueBubbles, it fixes that completely.
+     A: BlueBubbles, fixes that.
 
     "No more FaceTime—how will we video call? Do I have to download another app?"
-     A: I can use an alternative on my end to do this.
+     A: Google has its own alternatives for calling and video calling. I can use those instead.
 
     "Will you still get my iMessages if you’re on Android?"
-     A: Yes, because I'll use the Mac as an iMessage server to receive and send them via BlueBubbles for Android.
+     A: BlueBubbles allows me to get iMessages just like iPhone.
 
     "What if you miss family announcements in our shared iMessage thread?"
-     A: I won't. BlueBubbles lets me see everything, just like iMessage but for Android.
+     A: BlueBubbles lets me see everything, just like iMessages.
 
     "How will we find your phone if you lose it? You won’t be on Find My iPhone!"
-     A: This isn't a big concern to me, however, I can modify a variant of Spyware on my phone that lets me track it like an AirTag and throw it into an app I use. Also, Android works with Apple's AirTag network.
+     A: Life360 can fix this.
 
     "What about AirDrop? How will you send us photos quickly?"
      A: Just send it through iMessage to my contact. I'll receive it on BlueBubbles. If not, LocalSend works as an alternative for Linux, Windows, MacOS, iOS, iPadOS, and Android.
