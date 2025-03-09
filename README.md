@@ -1,11 +1,13 @@
 # AppleToAndroidSwitch
-This repository allows kids who want to switch from Apple to Android to do so, and give solid, reasonable comebacks to nearly any question that can come their way.
+This repository helps people who want to switch from Apple to Android, including reasonable answers to nearly any question that can come their way.
+
+# Q&A's:
 
     "How will we text? You’ll turn our group chats green!"
      A: I can install BlueBubbles. No, you guys don't have to switch to a new app since only iMessages shows the Greeb Bubble. BlueBubbles is a server app for Mac that lets me talk to you through iMessage on Android.
 
     "What about reactions to messages? Will you just get ‘Liked’ texts?"
-     A: BlueBubbles, fixes that.
+     A: BlueBubbles fixes that.
 
     "No more FaceTime—how will we video call? Do I have to download another app?"
      A: Google has its own alternatives for calling and video calling. I can use those instead.
