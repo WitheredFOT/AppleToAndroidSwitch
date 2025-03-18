@@ -4,7 +4,7 @@ This repository helps people who want to switch from Apple to Android, including
 # Q&A's
 
 "How will we text? You’ll turn our group chats green!"
- A: I can install BlueBubbles. No, you guys don't have to switch to a new app since only iMessages shows the Greeb Bubble. BlueBubbles is a server app for Mac that lets me talk to you through iMessage on Android.
+ A: I can install BlueBubbles. No, you guys don't have to switch to a new app since only iMessages shows the Greeb Bubble. BlueBubbles is a server app for Mac that lets me talk to you through iMessage on Android. Also, Apple has been sued over the Green Bubbles by the U.S. Government and the EU, losing to both. This means that Apple will allow Blue Bubbles directly from an Android device without the need for any external service.
 
 "What about reactions to messages? Will you just get ‘Liked’ texts?"
  A: BlueBubbles fixes that.
