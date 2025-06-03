@@ -22,7 +22,7 @@ This repository helps people who want to switch from Apple to Android, including
  A: Android has "Find my Device" built in.
 
 "What about AirDrop? How will you send us photos quickly?"
- A: Just send it through iMessage, I will receive it on BlueBubbles. If not, LocalSend works as an alternative for AirDrop on any operating system.
+ A: Just send it through iMessage, I will receive it on BlueBubbles. If not, LocalSend works as an alternative for AirDrop on any operating system. Samsung phones also offer Quick Share as an alternative.
 
 "Your Apple Watch won’t work with Android—are you okay losing that?"
  A: Apple Watches have the same features that many other smart watches do. Samsung, Google and Pebble all offer smartwatches that work with Android.
@@ -55,10 +55,10 @@ This repository helps people who want to switch from Apple to Android, including
  A: An Android phone can and will stay updated for longer than an iPhone will sustainably and quickly update. Laws in Europe have been passed that a phone must provide updates for at least 5 years after the phone has been released, and similar laws are being looked at in other places like California.
 
 "What if your Android phone gets hacked? Apple is more secure!"
- A: Androids usually get hacked since code is publicly available, meaning attackers can see all the code for the Operating System. Apple's is closed-source, meaning attackers can't see and must use the Scientific Method to find exploits in Apple. Only God and Apple know how secure Apple's OSes really are.
+ A: Androids usually get hacked since code is publicly available, meaning attackers can see all the code for the Operating System. Apple's is closed-source, meaning attackers can't see and must use the Scientific Method to find exploits in Apple. Only God and Apple know how secure Apple's OSes really are. Android being open source can also be considered a bonus, as security researches can view the source code and find security vulnerabilities early on.
 
 "All your friends have iPhones—won’t you feel left out with green bubbles?"
- A: I won't have Green Bubbles as a problem using BlueBubbles.
+ A: I won't have Green Bubbles as a problem using BlueBubbles. If your friends care so much about the color of your bubbles, then you need new friends anyway.
 
 "What if your group chats break because you’re on Android?"
  A: I won't have that problem using BlueBubbles.
@@ -82,7 +82,7 @@ This repository helps people who want to switch from Apple to Android, including
  A: Google, StackOverflow and Reddit are my best friends. They can fix nearly any problem I have with my Android phone.
  
 "Do Android phones even work with our HomeKit smart lights?"
- A: Yes. Eve for HomeKit, Google Home/Alexa, and Home Assistant all are alternatives that allow my Android seamlesss integration.
+ A: Yes. Even for HomeKit, Google Home/Alexa, and Home Assistant all are alternatives that allow my Android seamlesss integration.
 
 "Will you still get my Shared Notes and reminders?"
  A: A Mac computer can help with this, although there may not be an Apple-alternative Notes/Reminders for Android users, there is an alternative for the whole family. Goodnotes
