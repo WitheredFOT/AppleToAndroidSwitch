@@ -85,10 +85,10 @@ This repository helps people who want to switch from Apple to Android, including
  A: Yes. [Home Assistant](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&hl=en_US), Google Home and Amazon Alexa all are alternatives that allow my Android seamlesss integration.
 
 27) "Will you still get my Shared Notes and reminders?"
- A: Proton Calendar  can sync for reminders, working on both [Android](https://play.google.com/store/apps/details?id=me.proton.android.calendar) and [iPhone](https://apps.apple.com/us/app/proton-calendar-secure-events/id1514709943). For notes, Google Keep (for convenience) or Notion (for organized notes)
+ A: Proton Calendar  can sync for reminders, working on both [Android](https://play.google.com/store/apps/details?id=me.proton.android.calendar) and [iPhone](https://apps.apple.com/us/app/proton-calendar-secure-events/id1514709943). For notes, [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en_US) (for convenience) or [Obsidian](https://obsidian.md/) (for organized notes)
 
 28) "How will we monitor your screen time without Apple’s parental controls?"
- A: You can use Life360, and depending on the kind of phone I get, you can also install the Samsung Family Hub, Family Link (Google), etc.
+ A: You can use Life360, and depending on the kind of phone you get, you can also install the Samsung Family Hub, Family Link (Google), etc.
 
 29) "What if your Android phone breaks? There’s no Apple Store to fix it."
  A: iPhones break easily if you tinker with them. Plus, everything is public knowledge in the Android world. Anything can be fixed by a community of ~71% of phone users.
