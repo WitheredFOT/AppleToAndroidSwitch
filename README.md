@@ -3,110 +3,120 @@ This repository helps people who want to switch from Apple to Android, including
 
 # Q&A's
 
-"How will we text? You’ll turn our group chats green!"
- A: I can install BlueBubbles. No, you guys don't have to switch to a new app since only iMessages shows the Greeb Bubble. BlueBubbles is a server app for Mac that lets me talk to you through iMessage on Android. Also, Apple has been sued over the Green Bubbles by the U.S. Government and the EU, losing to both. This means that Apple will allow Blue Bubbles directly from an Android device without the need for any external service.
+1) "How will we text? You’ll turn our group chats green!"
+ A: I can install [BlueBubbles](https://bluebubbles.app/). No, you guys don't have to switch to a new app since only iMessages shows the Green Bubble. [BlueBubbles](https://bluebubbles.app/) is an app for Android that works through iMessage. Apple has also been sued over the Green Bubbles, agreeing to support Android's messaging systems when 
 
-"What about reactions to messages? Will you just get ‘Liked’ texts?"
- A: BlueBubbles fixes that.
+2) "What about reactions to messages? Will you just get ‘Liked’ texts?"
+ A: [BlueBubbles](https://bluebubbles.app/) fixes that, but you can also use alternatives such as [Signal](https://signal.org/), [Telegram](https://telegram.org/) or [Discord](https://discord.com/)
 
-"No more FaceTime—how will we video call? Do I have to download another app?"
- A: Google has its own alternatives for calling and video calling. I can use those instead.
+3) "No more FaceTime—how will we video call? Do I have to download another app?"
+ A: Sadly, yes. But there are options: [Google Meet](https://meet.google.com/), [Signal](https://signal.org/), [Telegram](https://telegram.org/) and [Discord](https://discord.com/) are among many others with video call.
 
-"Will you still get my iMessages if you’re on Android?"
- A: BlueBubbles allows me to get iMessages just like iPhone.
+4) "Will you still get my iMessages if you’re on Android?"
+ A: [BlueBubbles](https://bluebubbles.app/) allows me to get iMessages just like iPhone.
 
-"What if you miss family announcements in our shared iMessage thread?"
- A: BlueBubbles lets me see everything, just like iMessages.
+5) "What if you miss family announcements in our shared iMessage thread?"
+ A: [BlueBubbles](https://bluebubbles.app/) lets me see the iMessage thread flawlessly.
 
-"How will we find your phone if you lose it? You won’t be on Find My iPhone!"
+6) "How will we find your phone if you lose it? You won’t be on Find My iPhone!"
  A: Android has "Find my Device" built in.
 
-"What about AirDrop? How will you send us photos quickly?"
- A: Just send it through iMessage, I will receive it on BlueBubbles. If not, LocalSend works as an alternative for AirDrop on any operating system. Samsung phones also offer Quick Share as an alternative.
+7) "What about AirDrop? How will you send us photos quickly?"
+ A: [LocalSend](https://github.com/localsend/localsend) works as an alternative for AirDrop, working on iPhone, Android and more. Samsung phones also offer [Quick Share](https://www.samsung.com/us/apps/quick-share/) as an alternative.
 
-"Your Apple Watch won’t work with Android—are you okay losing that?"
+8) "Your Apple Watch won’t work with Android—are you okay losing that?"
  A: Apple Watches have the same features that many other smart watches do. Samsung, Google and Pebble all offer smartwatches that work with Android.
 
-"Will your AirPods even work properly without an iPhone?"
- A: Yes, AirPods work fine if they are given a device to connect to on Bluetooth.
+9) "Will your AirPods even work properly without an iPhone?"
+ A: Yes, AirPods work if they connect to an Android on Bluetooth.
 
-"We share calendars and reminders through iCloud—how will you stay in sync?"
- A: Using a Mac can allow me to view everything, so you may still send me reminders and calendars.
+10) "We share calendars and reminders through iCloud—how will you stay in sync?"
+ A: Proton Calendar can sync for reminders, working on both [Android](https://play.google.com/store/apps/details?id=me.proton.android.calendar) and [iPhone](https://apps.apple.com/us/app/proton-calendar-secure-events/id1514709943)
 
-"We pay for Apple Music—will you still use it, or switch to Spotify?"
- A: Apple Music and Apple Music Classical works on Android. Soundcloud, Youtube, Spotify and downloading music all work, if not better.
+11) "We pay for Apple Music—will you still use it, or switch to Spotify?"
+ A: Apple Music works on [Android](https://play.google.com/store/apps/details?id=com.apple.android.music&hl=en_US). If need be, I can even install something like [Namida](https://github.com/namidaco/namida) to download music from Youtube.
 
-"What about our shared iCloud storage? Are you just going to abandon it?"
- A: A Mac computer works for this, you can just transfer stuff from iPhone, save it on your computer, then sync it to your Android. If you want to get extra techy, set up a NAS or VPS
+12) "What about our shared iCloud storage? Are you just going to abandon it?"
+ A: I can backup my Android to a Mac, or use another app such as [Syncthing](https://github.com/syncthing/syncthing)
 
-"Do they have [specific iOS app] on Android? What if it’s not the same?"
+13) "Do they have \[specific iOS app\] on Android? What if it’s not the same?"
  A: They most likely do, and it is the same.
 
-"How will you access our family photo albums in iCloud?"
- A: The Mac home server will allow you to view everything iCloud.
+14) "How will you access our family photo albums in iCloud?"
+ A: A Mac home server will allow me to view everything iCloud.
 
-"Will you still be able to use Apple Pay? What’s the Android version like?"
- A: No. I can just spend the remainder and then use Google pay, Android pay, then I can use my banking app for other stuff, and lastly Crypto apps also let me pay using these.
+15) "Will you still be able to use Apple Pay? What’s the Android version like?"
+ A: No. I can just spend the remainder and then use [Google Wallet](https://wallet.google.com/wallet/), [Samsung Wallet](https://play.google.com/store/apps/details?id=com.samsung.android.spay&hl=en_US), and I can use my banking app for other stuff. If I wanted to, some crypto apps let me pay too.
 
-"Android gets viruses, right? Are you sure it’s safe?"
- A: Apple gets viruses too. Many people aren't interested in checking out exploits and such in Apple, though, and Apple wants to either keep people in the dark (to make more money) or to not freak Apple users out.
+16) "Android gets viruses, right? Are you sure it’s safe?"
+ A: Apple gets viruses too. Many people aren't interested in checking out exploits, and Apple wants not to freak Apple users out.
 
-"iPhones get updates for years—will your Android phone even stay updated?"
- A: An Android phone can and will stay updated for longer than an iPhone will sustainably and quickly update. Laws in Europe have been passed that a phone must provide updates for at least 5 years after the phone has been released, and similar laws are being looked at in other places like California.
+17) "iPhones get updates for years—will your Android phone even stay updated?"
+ A: An Android phone can and will stay updated for longer than an iPhone will sustainably and quickly update. Laws in Europe have been passed that phones must provide updates for at least 5 years after the phone has been released, and similar laws are being looked at in other places like California.
 
-"What if your Android phone gets hacked? Apple is more secure!"
- A: Androids usually get hacked since code is publicly available, meaning attackers can see all the code for the Operating System. Apple's is closed-source, meaning attackers can't see and must use the Scientific Method to find exploits in Apple. Only God and Apple know how secure Apple's OSes really are. Android being open source can also be considered a bonus, as security researches can view the source code and find security vulnerabilities early on.
+18) "What if your Android phone gets hacked? Apple is more secure!"
+ A: Androids get hacked since the source code is publicly available, meaning everyone can view the source code for the Operating System. Apple's is closed-source, meaning attackers can have a backdoor nobody else knows about yet. Only God and Apple know how secure Apple's OSes really are. Android being open source can also be considered a bonus, as security researchers can view the source code and find security vulnerabilities early on before attackers.
 
-"All your friends have iPhones—won’t you feel left out with green bubbles?"
- A: I won't have Green Bubbles as a problem using BlueBubbles. If your friends care so much about the color of your bubbles, then you need new friends anyway.
+19) "All your friends have iPhones—won’t you feel left out with green bubbles?"
+ A: I won't have Green Bubbles as a problem while using [BlueBubbles](https://bluebubbles.app/). If your friends care so much about the color of your bubbles, then you and your friends can install [Signal](https://signal.org/), [Telegram](https://telegram.org/) or [Discord](https://discord.com/).
 
-"What if your group chats break because you’re on Android?"
- A: I won't have that problem using BlueBubbles.
+20) "What if your group chats break because you’re on Android?"
+ A: They won't, if I'm worried about it I can use [BlueBubbles](https://bluebubbles.app/)
 
-"People might think you’re the ‘Android person’ now… are you okay with that?"
- A: Usually, pop culture views people with Androids as the people who have Green Bubbles. If you use Mac as a home server for BlueBubbles, you may not even be called "Android person"
+21) "People might think you’re the ‘Android User’ now… are you okay with that?"
+ A: Yes.
 
-"Your iPhone is perfectly fine—why waste money on a new phone?"
- A: iOS/iPadOS slows down iDevices every major update. (iOS 18, iOS 19, etc.) So there's some incentive to buy a new phone. Their operating system is also closed-source and only comes with iDevices, along with adding in the problems of needing to Sideload every week for a non-native iOS app (eg. a Custom Browser, an App you're developing).
-
-"What if you hate Android? Will you just buy another iPhone later?"
- A: Android is pretty easy to like, it leads phone market share at a staggering ~83% total (Samsung, Pixel, Sony, Motorola, etc.)
-
-"Android phones don’t hold their value—how will you resell it?"
- A: There's not much of an incentive to sell an Android phone. Plus, I can always upgrade it if need be.
-
-"How will you back up your stuff without iCloud?"
- A: A Mac will allow you to backup things to iCloud. If not, Google's cloud service, a NAS, an external hard drive and regular backups can let me keep my stuff safe.
-
-"What if you need help? We don’t know anything about Android!"
- A: Google, StackOverflow and Reddit are my best friends. They can fix nearly any problem I have with my Android phone.
+21) "Your iPhone is perfectly fine—why waste money on a new phone?"
+ A: Apple devices slow every major update, creating incentive to buy a new Apple device. Their operating system is also closed-source, meaning we have no clue what's going on behind the scenes.
  
-"Do Android phones even work with our HomeKit smart lights?"
- A: Yes. Even for HomeKit, Google Home/Alexa, and Home Assistant all are alternatives that allow my Android seamlesss integration.
+22) "What if you hate Android? Will you just buy another iPhone later?"
+ A: Android is pretty easy to like, as ~71% total smartphone users agree (Samsung, Pixel, Sony Xperia, Motorola, etc.)
 
-"Will you still get my Shared Notes and reminders?"
- A: A Mac computer can help with this, although there may not be an Apple-alternative Notes/Reminders for Android users, there is an alternative for the whole family. Goodnotes
+23) "Android phones don’t hold their value—how will you resell it?"
+ A: I can upgrade the phone myself, or buy a new one after backing up my data. There's not much of an incentive to resell.
 
-"How will we monitor your screen time without Apple’s parental controls?"
- A: You can use Life360.
+24) "How will you back up your stuff without iCloud?"
+ A: There are many alternatives, including: [Google Cloud](https://cloud.google.com/), [Samsung Cloud](https://www.samsung.com/us/support/owners/app/samsung-cloud), [Syncthing](https://syncthing.net/), setting up a NAS, External Hard Drive and/or regular backups can keep my stuff safe.
 
-"What if your Android phone breaks? There’s no Apple Store to fix it."
- A: iPhones break much more easily if you tinker with them. Plus, since everything is public knowledge in the Android world, anything can be fixed by a community of ~83% of phone users.
+25) "What if you need help? We don’t know anything about Android!"
+ A: [Google](https://www.google.com/), [StackOverflow](https://stackoverflow.com/) and [Reddit](https://www.reddit.com/) are my best friends. These big communities can fix nearly any problem I have with my Android.
+ 
+26) "Do Android phones even work with our HomeKit smart lights?"
+ A: Yes. [Home Assistant](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&hl=en_US), Google Home and Amazon Alexa all are alternatives that allow my Android seamlesss integration.
 
-"Why switch? iPhones just work better!"
- A: Speed, Customizeability, Fun, Tinkering and Androids are basically an effective Mobile Desktop.
+27) "Will you still get my Shared Notes and reminders?"
+ A: Proton Calendar  can sync for reminders, working on both [Android](https://play.google.com/store/apps/details?id=me.proton.android.calendar) and [iPhone](https://apps.apple.com/us/app/proton-calendar-secure-events/id1514709943). For notes, Google Keep (for convenience) or Notion (for organized notes)
 
-"Are you doing this just to be different?"
- A: No, there's so much more I can do on Android than I can on iOS.
+28) "How will we monitor your screen time without Apple’s parental controls?"
+ A: You can use Life360, and depending on the kind of phone I get, you can also install the Samsung Family Hub, Family Link (Google), etc.
 
-"What’s wrong with the way we’ve always done things?"
- A: Nothing. To me, if anything, it's just better to switch to Android for cost of maintenance.
+29) "What if your Android phone breaks? There’s no Apple Store to fix it."
+ A: iPhones break easily if you tinker with them. Plus, everything is public knowledge in the Android world. Anything can be fixed by a community of ~71% of phone users.
 
-"What if your Android phone doesn’t work with the car’s Bluetooth?"
- A: Android phones use the same Bluetooth technology that your iPhone does. There's no problem here.
+30) "Why switch? iPhones just work better!"
+ A: Speed, Customizeability, Fun, Tinkering, Cost of Maintenance and Androids are essentially a Mobile Desktop.
 
-"Will you still be able to use Memoji and Animoji?"
- A: Bitmoji, Zmoji and Samsung AR Emoji all are alternatives for Androids. Bitmoji even works on iPhone!
+31) "Are you doing this just to be different?"
+ A: No. There's so much more I can do on Android than I can on iOS.
 
-"How do you even transfer everything from iPhone to Android? It sounds complicated!"
- A: iTunes lets me install all my stuff to my PC from my iPhone. Every other app can just be Cloud-Synced or Password-Synced to my Android. There are guides online for almost everything nowadays.
+32) "What’s wrong with the way we’ve always done things?"
+ A: Nothing. iPhone is better for simplicity and compatibility (with other Apple devices), but if you want to use anything other than Apple devices, use an Android.
+
+33) "What if your Android phone doesn’t work with the car’s Bluetooth?"
+ A: Android phones use the same Bluetooth technology that your iPhone does.
+
+34) "Will you still be able to use Memoji and Animoji?"
+ A: Bitmoji is an alternative for both [Android](https://play.google.com/store/apps/details?id=com.bitstrips.imoji) and [iPhone](https://apps.apple.com/us/app/bitmoji/id868077558).
+
+35) "How do you transfer everything from iPhone to Android? It sounds complicated!"
+ A: Use iTunes to download notes, photos, app data and such to your computer, use [LocalSend](https://localsend.org/) to move whatever Apple doesn't want to sync, then you can back up all those to the new Android phone.
+
+36) "How will you get 2FA codes without the Apple Password app?"
+ A: Ente Auth works on all devices including [Android](https://play.google.com/store/apps/details?id=io.ente.auth) and [iPhone](https://apps.apple.com/us/app/ente-auth-2fa-authenticator/id6444121398).
+
+37) "What password manager will you use without the Apple Password app?"
+ A: Bitwarden works on every device including [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden&hl=en_US) and [iPhone](https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744).
+
+# Useful Resources
+
+[Awesome Android Apps (AAA)](https://github.com/Psyhackological/AAA)
