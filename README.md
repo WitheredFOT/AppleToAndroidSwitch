@@ -22,7 +22,7 @@ This repository helps people who want to switch from Apple to Android, including
  A: Android has "Find my Device" built in.
 
 7) "What about AirDrop? How will you send us photos quickly?"
- A: [LocalSend](https://github.com/localsend/localsend) works as an alternative for AirDrop, working on iPhone, Android and more. Samsung phones also offer [Quick Share](https://www.samsung.com/us/apps/quick-share/) as an alternative.
+ A: Quick Share is supported on almost all Android devices. Additionally, Quick Share on Google Pixel devices now work with AirDrop. [LocalSend](https://github.com/localsend/localsend) works as an alternative for AirDrop and Quick Share, working on iPhone, Android and more.
 
 8) "Your Apple Watch won’t work with Android—are you okay losing that?"
  A: Apple Watches have the same features that many other smart watches do. Samsung, Google and Pebble all offer smartwatches that work with Android.
@@ -31,7 +31,7 @@ This repository helps people who want to switch from Apple to Android, including
  A: Yes, AirPods work if they connect to an Android on Bluetooth.
 
 10) "We share calendars and reminders through iCloud—how will you stay in sync?"
- A: Proton Calendar can sync for reminders, working on both [Android](https://play.google.com/store/apps/details?id=me.proton.android.calendar) and [iPhone](https://apps.apple.com/us/app/proton-calendar-secure-events/id1514709943)
+ A: iCloud calendar supports CalDav, meaning most other calendar apps can sync with it. Otherwise, Proton Calendar can sync for reminders, working on both [Android](https://play.google.com/store/apps/details?id=me.proton.android.calendar) and [iPhone](https://apps.apple.com/us/app/proton-calendar-secure-events/id1514709943)
 
 11) "We pay for Apple Music—will you still use it, or switch to Spotify?"
  A: Apple Music works on [Android](https://play.google.com/store/apps/details?id=com.apple.android.music&hl=en_US). If need be, I can even install something like [Namida](https://github.com/namidaco/namida) to download music from Youtube.
@@ -55,7 +55,7 @@ This repository helps people who want to switch from Apple to Android, including
  A: An Android phone can and will stay updated for longer than an iPhone will sustainably and quickly update. Laws in Europe have been passed that phones must provide updates for at least 5 years after the phone has been released, and similar laws are being looked at in other places like California.
 
 18) "What if your Android phone gets hacked? Apple is more secure!"
- A: Androids get hacked since the source code is publicly available, meaning everyone can view the source code for the Operating System. Apple's is closed-source, meaning attackers can have a backdoor nobody else knows about yet. Only God and Apple know how secure Apple's OSes really are. Android being open source can also be considered a bonus, as security researchers can view the source code and find security vulnerabilities early on before attackers.
+ A: Androids get hacked since the source code is publicly available, meaning everyone can view the source code for the Operating System. Apple's is closed-source, meaning attackers can have a backdoor nobody else knows about yet. Only God and Apple know how secure Apple's OSes really are. Android being open source should be considered a positive aspect, as security researchers can view the source code and find security vulnerabilities early on before attackers.
 
 19) "All your friends have iPhones—won’t you feel left out with green bubbles?"
  A: I won't have Green Bubbles as a problem while using [BlueBubbles](https://bluebubbles.app/). If your friends care so much about the color of your bubbles, then you and your friends can install [Signal](https://signal.org/), [Telegram](https://telegram.org/) or [Discord](https://discord.com/).
